@@ -1,0 +1,47 @@
+body{
+	background-image:url("http://img.bbbpics.com/images/Flowers/degradation-form-wallpaper-background-pink-fullscr4967.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+
+
+
+.jumbotron{
+	
+	
+    background-image: url("https://s1.it.atcdn.net/wp-content/uploads/2014/09/Geneva-to-Vienna-by-train-3-of-42.jpg");
+    background-size: cover;
+    zoom: 4.16;
+    /* background-size: 462px 181px; */
+    /* background-position-y: -60px; */
+    background-repeat: no-repeat;
+    /* background-size: 100% 100%; */
+}
+ .jumbotron h1{
+ 	/*background-size: cover;
+    zoom: 2.16;
+	font-size: 2em;
+	*/
+
+font-size: 13px;
+color:orangered;
+font-style: oblique;
+bottom:-40px;
+
+font-family: 'Shift', cursive;
+font-weight:small;
+position:relative;
+top:-10px;
+
+
+
+
+}
+form{
+background-color:;
+}
+.row{
+	background:transparent;
+}
